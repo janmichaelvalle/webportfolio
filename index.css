@@ -1,0 +1,55 @@
+/* 
+Color Pallette
+#2B2D42#ffffff#f5f5dc#0b3d91#fdb813
+ */
+
+
+
+
+* {
+  font-family: 'Roboto Slab', serif;
+}
+
+#nav-brand {
+  color: #FDB813;
+}
+
+#nav-bar, #landing, #tools, #projects {
+  border-color:#FDB813 !important;
+}
+
+#download-btn, #contact {
+  background-color: #FDB813;
+  color: #ffffff;
+  border: none;
+}
+
+
+
+.company-logos {
+  height: 222px;
+  width: 222px;
+  object-fit: contain;
+}
+
+span {
+  color: #FDB813;
+}
+
+.p-items {
+  margin-bottom: 0.1rem;
+}
+
+.social {
+  height: 2rem;
+  width: 2rem;
+}
+
+#send-button {
+  background-color: #0b3d91;
+  border:none;
+}
+
+#contact-p-text {
+  color:  #0b3d91
+}
